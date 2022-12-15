@@ -1,5 +1,4 @@
-# TrafficEst_resources
-Compilation of resources about traffic estimation methods
+# Miscellaneous Resources for Traffic Estimation Methods
 
 
 ## Introductory materials for INLA and Bayesian methods
@@ -17,3 +16,6 @@ Compilation of resources about traffic estimation methods
 
 - A spatio-temporal approach to review: Boulieri, A., Liverani, S., de Hoogh, K. and Blangiardo, M., 2017. A space–time multivariate Bayesian model to analyse road traffic accidents by severity. Journal of the Royal Statistical Society: Series A (Statistics in Society), 180(1), pp.119-139.
 
+
+# Google API for congestion levels:
+- https://dime-worldbank.github.io/googletraffic/index.html
